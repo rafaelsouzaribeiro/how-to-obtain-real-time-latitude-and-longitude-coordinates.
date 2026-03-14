@@ -27,11 +27,11 @@ Aplicativo Android desenvolvido com **Jetpack Compose** para obter e acompanhar 
 
 ### Tela inicial
 
-![Tela inicial](docs/images/tela-inicial.png)
+![Tela inicial](docs/images/tela-inicial.jpeg)
 
 ### Rastreamento em tempo real
 
-![Rastreamento em tempo real](docs/images/rastreamento.png)
+![Rastreamento em tempo real](docs/images/rastreamento.jpeg)
 
 
 
